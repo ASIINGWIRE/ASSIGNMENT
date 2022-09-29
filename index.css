@@ -1,0 +1,48 @@
+body{
+    background-color:white;
+}
+.container{
+    text-align: center;
+    margin-left:  200px;
+    width: 800px;
+    border-radius:  20px;
+}
+.hey{
+    box-shadow:2px 2px 2px 2px gray;
+    margin: 30px;
+    padding: 50px;
+    background-color: azure;
+    border-radius: 5px;
+}
+img{
+    border-radius: 50%;
+}
+h1{
+    color:rgb(9, 9, 102);
+}
+p{
+    color: brown;
+}
+h2{
+    color: dodgerblue;
+}
+h3{
+    color: cornflowerblue;
+}
+a{
+    text-decoration: none;
+}
+.groot{
+    box-shadow:2px 2px 2px 2px gray;
+    margin: 30px;
+    padding: 50px;
+    background-color: azure;
+    border-radius: 5px;
+}
+.box{
+    margin: 30px;;
+    box-shadow:2px 2px 2px 2px gray;
+    padding: 50px;
+    background-color: azure;
+    border-radius: 5px;
+}

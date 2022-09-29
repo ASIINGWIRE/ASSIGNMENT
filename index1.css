@@ -1,0 +1,22 @@
+body{
+    background-color: honeydew;
+}
+*{
+     text-align: center;
+     margin-left:  80px;
+     margin-right: 80px;
+    border-radius:  20px;
+}
+img{
+    border-radius: 500px;
+}
+h1,h3{
+    color: dodgerblue;
+}
+#d1,#d2,#d3{
+    box-shadow:2px 2px 2px 2px rgb(244, 240, 240);
+    margin: 30px;
+    padding: 50px;
+    background-color: azure;
+    border-radius: 10px;
+}
