@@ -1,0 +1,22 @@
+/* justifying-content:center; aligns flex items to the main axis of the current line of the flex container */
+body {
+    background: honeydew;
+    display:flex;
+    justify-content: center;
+    padding-top: 5em;
+}
+
+/* styling class Digitalclock */
+.Digitalclock {
+    color: green;
+    font-size: 60px;
+    letter-spacing: 7px;
+    font-weight: bolder;
+    text-shadow: 5px 5px 10px rgb(21, 23, 21);
+}
+
+/* changing the size of the emoji */
+#center {
+   font-size: 50px;
+   text-shadow: 5px 5px 10px rgb(40, 42, 40);   
+}
